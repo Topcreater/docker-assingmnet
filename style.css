@@ -71,3 +71,9 @@ margin-top: 50px;
     font-size: 80px;
 }
 
+@media (max-width: 480px) { 
+    .accelerate-1 h1 {
+        font-size: 40px;
+        
+    }
+ }
